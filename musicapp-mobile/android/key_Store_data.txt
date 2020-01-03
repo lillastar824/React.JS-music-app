@@ -1,0 +1,4 @@
+Key store file path : /project/MusicApp-Mobile/android/Untitled.jks
+Alias : MusicApp
+Key store password : password
+Key Password : password
